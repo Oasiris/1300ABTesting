@@ -57,6 +57,13 @@ header {
 /* —————————————————————————————————————— */
 /* My changes */
 
+body, html {
+  font-family: 'Aktiv Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+  'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1 { font-weight: 700; }
+
 .content-pane {
   display: flex;
   flex-direction: column;
